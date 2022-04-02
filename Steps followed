@@ -1,0 +1,11 @@
+• Applying deep learning algorithms to accurately recognize and classify plant leaf diseases.
+• Building multiple models such as transfer learning models VGG16 and VGG19 based on CNN architecture along with eXtreme Gradient Boost and traditional models like Random Forest and Support Vector Machine to address the solution of classification in identifying the leaf diseases.
+• Applying data augmentation technique to generalize the models.
+This document is structured as follows:
+Section 1 Contains is introduction to the study, 
+section 2 covers the related works in the agriculture field in diagnosing the plants, 
+section 3 demonstrates the methodology, 
+section 4 illustrates the design followed in this study,
+ section 5 explains the implementation, 
+section 6 discusses the evaluation and results and 
+section 7 briefs on conclusion and future work.
